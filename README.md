@@ -1,7 +1,7 @@
 # ReadImagesAndPdfs
 
 Criar uma pasta com o nome de tessdata
-Colar o arquivo . traineddata que está em src/main/java/ocr/utils/
+Colar o arquivo . traineddata que está em src/main/java/utils/
 Criar variável de ambiente com o nome TESSDATA_PREFIX e valor (caminho do diretório onde a tessdata está localizada).
 
 exemplo:
